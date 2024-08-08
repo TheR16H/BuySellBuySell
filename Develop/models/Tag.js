@@ -10,40 +10,7 @@ Tag.init({
       allowNull: false
     },
     
-    //   tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    //   tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    // tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    //   tag_name:  {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    //   tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    //   tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-    // },
-    
-    //   tag_name: {
-    //   type: DataTypes.STRING,
-    //   allowNull: false
-  // },
+  
 },
   {
     sequelize,
