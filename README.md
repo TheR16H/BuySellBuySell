@@ -21,10 +21,14 @@
 ## Usage
 
 ## Installation
-<!-- just simply run the following command and you're all set! 
+<!-- just simply run the following commands in your terminal the first to install the necessary npm packages.
 ```
 npm i
-``` -->
+``` 
+This second optional command is if you want the seeded data to populate your tables
+```
+npm run seed
+```-->
 
 ## Support
 For any support find me on [Github!](https://github.com/TheR16H)
