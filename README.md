@@ -1,7 +1,7 @@
-# BuySellBuySell
+# E-commerce Application
 
 ## Description 
-<!-- [name](link to repo)  -->
+<!-- [E-commerce Application](https://github.com/TheR16H/BuySellBuySell)  -->
 
 ## Table of Contents
 
@@ -16,7 +16,9 @@
 ## Visuals
 <!-- ![ScreenShot1]() 
  ![ScreenShot2]()
-![ScreenShot3]() -->
+![ScreenShot3]()
+-- > [DEMO VIDEO](www.google.com) < -- Click me  
+remove the arrow spaces-->
 
 ## Usage
 
