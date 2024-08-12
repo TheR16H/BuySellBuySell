@@ -23,25 +23,26 @@ remove the arrow spaces-->
 ## Usage
 
 ## Installation
-<!-- just simply run the following commands in your terminal the first to install the necessary npm packages.
+just simply run the following commands in your terminal the first to install the necessary npm packages.
 ```
 npm i
 ``` 
-This second optional command is if you want the seeded data to populate your tables
+This second optional command is if you want the seeded data to populate your tables!
 ```
 npm run seed
-```-->
+```
+
 
 ## Support
-For any support find me on [Github!](https://github.com/TheR16H)
+For any support (or to see some of my other works) find me on [Github!](https://github.com/TheR16H)
 
 ## Contributions
 N/A
 
 ## Acknowledgments
-<!-- - [pg npm package](https://node-postgres.com/) 
+- [pg npm package](https://node-postgres.com/) 
 - [Sequelize npm package](https://www.npmjs.com/package/sequelize) 
-- [Dotenv npm package](https://www.npmjs.com/package/dotenv)  -->
+- [Dotenv npm package](https://www.npmjs.com/package/dotenv) 
 
 ## License 🔔
 
