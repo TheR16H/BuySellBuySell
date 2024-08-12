@@ -1,7 +1,10 @@
 # E-commerce Application
 
 ## Description 
-<!-- [E-commerce Application](https://github.com/TheR16H/BuySellBuySell)  -->
+This is an __<u>[E-commerce Application](https://github.com/TheR16H/BuySellBuySell)__.</u> the purpose of it is to be able to keep track of your products at your business. with this application you can 
+- seperate your items by tags / categories.
+- add a price to your items 
+- and even delist (delete) them if need be.
 
 ## Table of Contents
 
@@ -21,6 +24,7 @@
 remove the arrow spaces-->
 
 ## Usage
+The proper usage is to delete/add/update your product listings, their prices and, any sort of category for organization purposes you want to put them in.
 
 ## Installation
 just simply run the following commands in your terminal the first to install the necessary npm packages.
