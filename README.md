@@ -17,11 +17,11 @@ This is an __<u>[E-commerce Application](https://github.com/TheR16H/BuySellBuySe
 - [License](#license)
 
 ## Visuals
-<!-- ![ScreenShot1]() 
- ![ScreenShot2]()
-![ScreenShot3]()
--- > [DEMO VIDEO](www.google.com) < -- Click me  
-remove the arrow spaces-->
+ ![ScreenShot1](./Assets/Vis1.png) 
+ ![ScreenShot2](./Assets/Vis2.png)
+
+--> [DEMO VIDEO](https://drive.google.com/file/d/12XZU5xr_N-eA2ggnwyKjSqDsjSLuEwTv/view?usp=sharing) <-- Click me  
+
 
 ## Usage
 The proper usage is to delete/add/update your product listings, their prices and, any sort of category for organization purposes you want to put them in.
