@@ -14,7 +14,8 @@ router.get('/', async (req, res) => {
 
 router.get('/:id', async (req, res) => {
   try {
-    const tagData = await Tag.findByPk(req.params.id, { include: [{ model: Product }]});
+    const tagData = await Tag.findByPk(req.params.id, { include: [{ model: Product }],
+    order: [['id', 'ASC']]}); // hopefully this displays it in order
     res.status(200).json(tagData);
   } catch (err) {
     res.status(500).json(err);
