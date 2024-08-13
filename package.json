@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an __<u>[E-commerce Application](https://github.com/TheR16H/BuySellBuySell)__.</u> the purpose of it is to be able to keep track of your products at your business. with this application you can \r - seperate your items by tags / categories.\r - add a price to your items \r - and even delist (delete) them if need be.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
